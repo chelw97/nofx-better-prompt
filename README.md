@@ -8,7 +8,8 @@
 
 # 参考资料
 nofx 原项目：https://github.com/tinkle-community/nofx
-nof1 的提示：https://gist.github.com/wquguru/7d268099b8c04b7e5b6ad6fae922ae83
+
+nof1 的提示词：https://gist.github.com/wquguru/7d268099b8c04b7e5b6ad6fae922ae83
 
 
 # Introduction
