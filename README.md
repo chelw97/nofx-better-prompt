@@ -1,5 +1,5 @@
 # 简介
-适用于 nofx 项目的更佳提示（prompt来自于自: https://nof1.ai/）
+适用于 nofx 项目的解耦ptompt系统与更佳提示词（prompt来自于自: https://nof1.ai/）
 
 # 步骤
 1. 将所有文件复制到 nofx 文件夹并覆盖原有文件。
