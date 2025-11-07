@@ -21,7 +21,7 @@ better prompt(extacted from https://nof1.ai/) for nofx project
 3. run nofx as usual.
 
 # Reference
-orginal project nofx: https://github.com/tinkle-community/nofx
+original project nofx: https://github.com/tinkle-community/nofx
 
 prompt of nof1: https://gist.github.com/wquguru/7d268099b8c04b7e5b6ad6fae922ae83
 
